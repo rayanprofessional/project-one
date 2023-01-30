@@ -1,2 +1,3 @@
 home page
 create page home
+create page video
