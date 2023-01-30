@@ -4,3 +4,4 @@ create page home
 create page web view
 
 create page video
+create dashboard
